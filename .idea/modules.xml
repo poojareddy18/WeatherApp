@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-773096579/WeatherApp.iml" filepath="$PROJECT_DIR$/.idea/modules/-773096579/WeatherApp.iml" group="WeatherApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WeatherApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/WeatherApp-app.iml" group="WeatherApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1159956950/WeatherApp-master-WeatherApp.iml" filepath="$PROJECT_DIR$/.idea/modules/-1159956950/WeatherApp-master-WeatherApp.iml" group="WeatherApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="WeatherApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-480237496/web-and-mobile-programming-WeatherApp.iml" filepath="$PROJECT_DIR$/.idea/modules/-480237496/web-and-mobile-programming-WeatherApp.iml" group="WeatherApp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-and-mobile-programming-WeatherApp-app.iml" filepath="$PROJECT_DIR$/.idea/modules/web-and-mobile-programming-WeatherApp-app.iml" group="WeatherApp/app" />
+    </modules>
+  </component>
+</project>
